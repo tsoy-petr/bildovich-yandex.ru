@@ -1,6 +1,22 @@
 [
-{
-"name": "Россия",
-"uuid": "12222"
-}
+  {
+    "name": "Bitcoin1",
+    "uuid": "BTC",
+    "date": 1558100855
+  },
+  {
+    "name": "Bitcoin2",
+    "uuid": "BTC",
+    "date": 1558100856
+  },
+  {
+    "name": "Bitcoin3",
+    "uuid": "BTC",
+    "date": 1558100857
+  },
+  {
+    "name": "Bitcoin4",
+    "uuid": "BTC",
+    "date": 1558100858
+  }
 ]
